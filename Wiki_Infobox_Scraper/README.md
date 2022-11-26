@@ -5,5 +5,5 @@
 ## Requirements: 
 
 ```
-$ pip install -r requirements.txt
+$ pip install "a requirement in requirements.txt"
 ```
